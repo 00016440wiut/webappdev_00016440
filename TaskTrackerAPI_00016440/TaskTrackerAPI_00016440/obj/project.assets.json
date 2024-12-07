@@ -11609,11 +11609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
+      "projectUniqueName": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Beka\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
       "projectName": "TaskTrackerAPI_00016440",
-      "projectPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
+      "projectPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Beka\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
       "packagesPath": "C:\\Users\\Bobur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\obj\\",
+      "outputPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Beka\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bobur\\AppData\\Roaming\\NuGet\\NuGet.Config",

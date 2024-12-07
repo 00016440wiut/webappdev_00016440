@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpH4MYc2g2g=",
+  "dgSpecHash": "MSI0+wLWrXc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
+  "projectFilePath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Beka\\webappdev_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440\\TaskTrackerAPI_00016440.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bobur\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Bobur\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
