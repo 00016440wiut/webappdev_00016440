@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TaskTrackerAPI_00016440.props" />
+</Project>
