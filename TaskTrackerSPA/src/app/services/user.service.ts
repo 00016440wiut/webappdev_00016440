@@ -12,7 +12,7 @@ import { Observable } from 'rxjs';
 export class UserService {
 
   // Base URL for the API endpoint
-  apiUrl: string = "http://localhost:7089/api/users";
+  apiUrl: string = "https://localhost:7089/api/users";
 
   // Injecting HttpClient for making HTTP requests
   constructor(private http: HttpClient) { }
